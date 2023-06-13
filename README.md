@@ -5,13 +5,9 @@ This repository contains files used to determine the Latitudinal Variation of ae
 
 The data files are as follows.
 
-Figure 1: The MUSE data are available from https://doi.org/10.5281/zenodo.7594682. The natural colour image is reproduced here, with and without gamma correction in the files:
+Figure 1: The MUSE data are available from https://doi.org/10.5281/zenodo.7594682. The natural colour image is reproduced here, with and without gamma correction in the files: Neptune_MUSE_sRGB_deconv.jpg and Neptune_MUSE_sRGB_deconv_Gamma.jpg 
 
-Neptune_MUSE_sRGB_deconv.jpg and Neptune_MUSE_sRGB_deconv_Gamma.jpg 
-
-Figure 2: The atmospheric profiles displayed are listed in:
-
-newmodel.txt and oldmodel.txt
+Figure 2: The atmospheric profiles displayed are listed in: newmodel.txt and oldmodel.txt
 
 Figure 3: The spectra displayed are contained in the file: minnaert_refl_k_edit.txt
 
